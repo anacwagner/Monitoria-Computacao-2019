@@ -2,10 +2,10 @@
 
 Arquivos da monitoria de Computação 2019.2 - FGV/EPGE
 
-##CURSO: 
+## CURSO: 
 Graduação em Economia – 2º semestre de 2019. 
 
-##DISCIPLINA: 
+## DISCIPLINA: 
 COMPUTAÇÃO. 
 
-##PROFESSOR(ES): Walter Sande.
+## PROFESSOR(ES): Walter Sande.
