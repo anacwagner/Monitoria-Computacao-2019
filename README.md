@@ -1,11 +1,4 @@
-# Monitoria Computação 2019.2
+# MONITORIA DE COMPUTAÇÃO (PYTHON)
 
-Arquivos da monitoria de Computação 2019.2 - FGV/EPGE
-
-## CURSO: 
-Graduação em Economia – 2º semestre de 2019. 
-
-## DISCIPLINA: 
-COMPUTAÇÃO. 
-
-## PROFESSOR(ES): Walter Sande.
+Arquivos da monitoria da disciplina de Computação 2019.2 aos alunos do curso de Graduação em Economia (FGV/EPGE). 
+Professor: Walter Sande
