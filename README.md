@@ -10,6 +10,8 @@ Horário: Terça e Quinta - 09:20 às 11:00
 
 Sala: Lab 1332
 
+* A simple way to share Jupyter Notebooks: https://nbviewer.jupyter.org
+
 ## Conteúdo Extra
 
 Precisando de alguma ajuda em como instalar o Python e/ou o Jupyter Notebook? Fiz um vídeo no meu canal no YouTube.  
